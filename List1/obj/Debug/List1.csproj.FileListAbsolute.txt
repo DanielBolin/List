@@ -1,0 +1,12 @@
+C:\Users\天才黃柏霖\Desktop\List1\List1\bin\Debug\List1.exe.config
+C:\Users\天才黃柏霖\Desktop\List1\List1\bin\Debug\List1.exe
+C:\Users\天才黃柏霖\Desktop\List1\List1\bin\Debug\List1.pdb
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.csproj.AssemblyReference.cache
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.Form1.resources
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.Properties.Resources.resources
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.csproj.GenerateResource.cache
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.csproj.CoreCompileInputs.cache
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.exe
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.pdb
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.Input.resources
+C:\Users\天才黃柏霖\Desktop\List1\List1\obj\Debug\List1.Output.resources
